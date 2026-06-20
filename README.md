@@ -26,7 +26,8 @@ Distribution of population values across countries (2020):
 ### Bar Chart
 Top 10 countries by population (2020):
 
-![Top 10 Population Bar](top10_population_bar.png)
+![Top 10 Population Bar](top10_population_bar.png<img width="640" height="480" alt="population_bar_graph" src="https://github.com/user-attachments/assets/8e7eed29-c305-4247-856d-b6953cf45863" />
+)
 
 ---
 
