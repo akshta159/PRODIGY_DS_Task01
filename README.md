@@ -32,3 +32,16 @@ Top 10 countries by population (2020):
 ---
 
 ## 📂 Repository Structure
+PRODIGY_DS_Task01/
+│
+├── task01_population_analysis.ipynb   # Jupyter Notebook
+├── population_histogram.png           # Histogram output
+├── top10_population_bar.png           # Bar chart output
+└── README.md                          # Documentation
+
+
+## ✅ Conclusion
+In **Task‑01**, the dataset was successfully imported and basic data exploration was performed.  
+Key steps included checking the structure of the dataset, identifying missing values, and understanding the distribution of variables.  
+This task laid the foundation for further analysis by ensuring familiarity with the dataset and highlighting areas that required cleaning and deeper exploration.  
+Overall, Task‑01 helped build a clear understanding of the dataset and prepared the ground for advanced tasks like data cleaning, visualization, and exploratory data analysis in subsequent stages.
